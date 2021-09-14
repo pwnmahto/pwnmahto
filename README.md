@@ -13,6 +13,17 @@
 ![C++](https://img.shields.io/badge/-C++-474242?&logo=c%2b%2b&logoColor=00599C)
 ![MySQL](https://img.shields.io/badge/-SQL-474242?&logo=MySQL)
 
+### Technologies
+![Adobe Experience Manager](https://img.shields.io/badge/-Adobe%20Experience%20Manager-474242?&logo=adobe)
+![Spring](https://img.shields.io/badge/-Spring-474242?&logo=Spring)
+![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-474242?&logo=Springboot)
+![Linux](https://img.shields.io/badge/-Linux-474242?&logo=Linux)
+![AWS](https://img.shields.io/badge/-AWS-474242?&logo=Amazon-AWS&logoColor=F90)
+![Docker](https://img.shields.io/badge/-Docker-474242?&logo=Docker)
+![Git](https://img.shields.io/badge/-Git-474242?&logo=Git)
+![Jenkins](https://img.shields.io/badge/-Jenkins-474242?&logo=Jenkins)
+
+
 ### 🤝🏻 &nbsp;Connect with Me
 
 <p>

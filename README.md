@@ -15,7 +15,7 @@
 
 ### 🤝🏻 &nbsp;Connect with Me
 
-<p align="center">
+<p>
   <a href="https://linkedin.com/in/pwnmahto">
     <img src="https://img.shields.io/badge/-Pawan%20Kumar-2867B2?style=flat&logo=Linkedin&logoColor=white"/>
   </a>

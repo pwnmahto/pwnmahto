@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/badge/-@pwnmahto-222221?style=flat&logo=Medium&logoColor=white"/>
   </a>
   <a href="https://twitter.com/pwnmahto">
-    <img src="https://img.shields.io/badge/-Pawan%20Kumar-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-pwnmahto-1DA1F2?style=flat&logo=Twitter&logoColor=white"/>
   </a>
   <a href="https://stackoverflow.com/users/5233919/pawan-kumar">
     <img src="https://img.shields.io/badge/-Pawan%20Kumar-f48024?style=flat&logo=Stackoverflow&logoColor=white"/>

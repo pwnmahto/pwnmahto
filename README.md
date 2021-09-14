@@ -1,6 +1,10 @@
 ## Hey 👋, I'm [Pawan Kumar](https://www.linkedin.com/in/pwnmahto/) 👨‍💻
 
 ### 💻 &nbsp;About Me 
+- 🔭 I’m currently working on **Adobe Experience Manager & Microservices with Spring Boot and Spring Cloud.**
+- 🌱 I’m currently learning **React & DevOps with AWS.**
+- 🧡 I believe in **Open Source.**
+- ⚡ Fun fact: I'm a **Photographer.**
 
 
 ### 🤝🏻 &nbsp;Connect with Me

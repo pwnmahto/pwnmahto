@@ -7,11 +7,11 @@
 - ⚡ Fun fact: I'm a **Photographer.**
 
 ### Languages
-![C](https://img.shields.io/badge/-C-000?&logo=C)
-![Java](https://img.shields.io/badge/-Java-000?&logo=Java&logoColor=007396)
-![JavaScript](https://img.shields.io/badge/-JavaScript-000?&logo=JavaScript)
-![C++](https://img.shields.io/badge/-C++-000?&logo=c%2b%2b&logoColor=00599C)
-![MySQL](https://img.shields.io/badge/-SQL-000?&logo=MySQL)
+![C](https://img.shields.io/badge/-C-474242?&logo=C)
+![Java](https://img.shields.io/badge/-Java-474242?&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-474242?&logo=JavaScript)
+![C++](https://img.shields.io/badge/-C++-474242?&logo=c%2b%2b&logoColor=00599C)
+![MySQL](https://img.shields.io/badge/-SQL-474242?&logo=MySQL)
 
 ### 🤝🏻 &nbsp;Connect with Me
 

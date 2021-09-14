@@ -6,7 +6,7 @@
 - 🧡 I believe in **Open Source.**
 - ⚡ Fun fact: I'm a **Photographer.**
 
-### Languages
+### 👨‍💻 Languages
 ![C](https://img.shields.io/badge/-C-474242?&logo=C)
 ![Java](https://img.shields.io/badge/-Java-474242?&logo=Java&logoColor=007396)
 ![JavaScript](https://img.shields.io/badge/-JavaScript-474242?&logo=JavaScript)

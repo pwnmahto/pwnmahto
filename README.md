@@ -13,7 +13,7 @@
 ![C++](https://img.shields.io/badge/-C++-474242?&logo=c%2b%2b&logoColor=00599C)
 ![MySQL](https://img.shields.io/badge/-SQL-474242?&logo=MySQL)
 
-### Technologies
+### 🛠 Technologies
 ![Adobe Experience Manager](https://img.shields.io/badge/-Adobe%20Experience%20Manager-474242?&logo=adobe)
 ![Spring](https://img.shields.io/badge/-Spring-474242?&logo=Spring)
 ![Spring Boot](https://img.shields.io/badge/-Spring%20Boot-474242?&logo=Springboot)

@@ -44,8 +44,4 @@
 </p>
 
 
-#### Profile Views
-  ![Visitor Count](https://profile-counter.glitch.me/{pwnmahto}/count.svg)
-
-
 

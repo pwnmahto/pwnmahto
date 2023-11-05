@@ -6,7 +6,6 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I’m a **Java Backend/Cloud Engineer with 8+ years of experience in building Solutions using Java Stacks.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m on track to learn **React, Systems Design, DevOps and Cloud Architecture.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧡 I believe in **Open Source.** \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;👨‍💻 All of my projects are available at [My Repositories](https://github.com/pwnmahto?tab=repositories). \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 I regularly write articles on [medium.com](https://pwnmahto.medium.com/) & [dev.to](https://dev.to/pwnmahto/). \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;⚡ Fun fact: I'm a **Photographer.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌎 Countries Lived/worked : **India & Sweden.** \

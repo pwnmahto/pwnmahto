@@ -3,7 +3,7 @@
 
 <h2 align="left">👨 About Me</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I’m a **Lead Java Backend/Cloud Engineer with 8+ years of expertise in developing solutions using Java & Cloud technologies.** \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I’m a **Java Backend/Cloud Engineer with 8+ years of expertise in developing solutions using Java & Cloud technologies.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 I’m on track to learn **React, Systems Design, DevOps, Cloud Architecture & Generative AI.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧡 I believe in **Open Source.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 I regularly write articles on [medium.com](https://pwnmahto.medium.com/) & [dev.to](https://dev.to/pwnmahto/). \

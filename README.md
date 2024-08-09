@@ -73,11 +73,14 @@
 </div>
 
 ### 🤝 Connect with me:
-- Medium: https://pwnmahto.medium.com
 - Dev: https://dev.to/pwnmahto
+- Twitter: https://twitter.com/pwnmahto
+- Medium: https://pwnmahto.medium.com
 - LinkedIn: https://www.linkedin.com/in/pwnmahto
 - Google Developer Profile: https://g.dev/pwnmahto
-- Twitter: https://twitter.com/pwnmahto
+- Certifications: https://www.credly.com/users/pwnmahto
+
+
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->

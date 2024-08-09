@@ -74,9 +74,10 @@
 
 ### 🤝 Connect with me:
 - Medium: https://pwnmahto.medium.com
-- Twitter: https://twitter.com/pwnmahto
 - Dev: https://dev.to/pwnmahto
 - LinkedIn: https://www.linkedin.com/in/pwnmahto
+- Google Developer Profile: https://g.dev/pwnmahto
+- Twitter: https://twitter.com/pwnmahto
 
 ### 📕 Latest Blog Posts:
 <!-- BLOG-POST-LIST:START -->

@@ -3,7 +3,7 @@
 
 <h2 align="left">👨 About Me</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I'm a **Senior Java Backend/Cloud Engineer with 9+ years of exp. in building scalable microservices & cloud-native apps.** \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I'm a **Senior Java Backend/Cloud Engineer** with 9+ years of exp. in building scalable **microservices & cloud-native apps.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning **React, DevOps, Cloud Architecture and Generative AI.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧡 Advocate for **Open Source contributions**. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Regular writer on platforms like [medium.com](https://pwnmahto.medium.com/) & [dev.to](https://dev.to/pwnmahto/). \

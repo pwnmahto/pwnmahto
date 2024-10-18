@@ -1,6 +1,6 @@
 <h1 align="center">नमस्ते (Namaste)🙏🏻, I'm Pawan Kumar 👋</h1>
 <!--<h2 align="center">A Techno Passionate Backend Engineer !</h2>-->
-<h3>Backend Engineer | Building Awesome Stuff | Expertise in Scalability & Resilience</h3>
+<h3 align="center">Backend Engineer | Building Awesome Stuff | Expertise in Scalability & Resilience</h3>
 
 <h2 align="left">👨 About Me</h2>
 

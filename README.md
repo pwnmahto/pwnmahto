@@ -5,10 +5,10 @@
 <h2 align="left">👨 About Me</h2>
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I'm a **Senior Java Engineer** with 9+ years of exp. in building scalable **microservices & cloud-native applications.** \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning **React, DevOps, Cloud Architecture and Generative AI.** \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning **React, DevOps Cloud Architecture & Generative AI.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧡 Advocate for **Open Source contributions**. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Regular writer on platforms like [medium.com](https://pwnmahto.medium.com/) & [dev.to](https://dev.to/pwnmahto/). \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📷 I'm a **Photographer** and enjoy exploring how **AI** can enhance creative processes like image recognition and editing. \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📷 I'm a **Photographer** & enjoy exploring how **AI** can enhance creative processes like image recognition and editing. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌎 Countries Lived/worked : **India & Sweden.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛫 Countries Traveled : **Finland, Denmark, Hungary, Germany, France & Nepal**.
 

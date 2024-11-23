@@ -12,7 +12,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌎 Countries Lived/worked : **India & Sweden.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛫 Countries Traveled : **Finland, Denmark, Hungary, Germany, France & Nepal**.
 
-<h2 align="left">🛠 Programming Language & Tools</h2>
+<h2 align="left">🛠 Programming Languages & Tools</h2>
 <div>
 	<code><img height="25" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" /></code>
 	<code><img height="25" src="https://user-images.githubusercontent.com/25181517/192106073-90fffafe-3562-4ff9-a37e-c77a2da0ff58.png" alt="C++" title="C++" /></code>

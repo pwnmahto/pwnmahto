@@ -11,6 +11,7 @@
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌎 Countries Lived/worked : **India & Sweden.** \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛫 Countries Traveled : **Finland, Denmark, Hungary, Germany, France & Nepal**.
 
+<!-- 
 <h2 align="left">🛠 Programming Languages & Tools</h2>
 <div>
 	<code><img height="25" src="https://user-images.githubusercontent.com/25181517/192106070-46255bcf-65e6-4c6b-a296-bf8d0d8fb2a7.png" alt="C" title="C" /></code>
@@ -69,7 +70,7 @@
 	<code><img height="25" src="https://user-images.githubusercontent.com/25181517/192109061-e138ca71-337c-4019-8d42-4792fdaa7128.png" alt="Postman" title="Postman" /></code>
 	<code><img height="25" src="https://user-images.githubusercontent.com/25181517/183912952-83784e94-629d-4c34-a961-ae2ae795b662.png" alt="Jira" title="Jira" /></code>
 	<code><img height="25" src="https://user-images.githubusercontent.com/25181517/184146221-671413cb-b1ae-47db-a232-b37c99281516.png" alt="SonarQube" title="SonarQube" /></code>
-</div>
+</div> -->
 
 ### 🤝 Connect with Me:
 - Dev: https://dev.to/pwnmahto

@@ -5,7 +5,7 @@
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I'm a **Senior Java Engineer** with 9+ years of experience architecting scalable **microservices** & **cloud-native applications**. \
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌐 I bring cross-functional expertise, integrating modern front-end (React, Next.js), **cloud architecture**, and **Generative AI**.\
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧡 Passionate advocate for **Open Source**, with active contributions that reflect my commitment to community-driven development.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧡 Passionate advocate for **Open Source**, with active contributions that reflect my commitment to community-driven development.\
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 I regularly share technical insights and deep dives on platforms [medium.com](https://pwnmahto.medium.com/) and [dev.to](https://dev.to/pwnmahto/).
 
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📷 Outside of code, I'm a Photographer exploring how AI augments creativity in fields like image recognition and intelligent editing.\

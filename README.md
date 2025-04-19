@@ -3,13 +3,13 @@
 
 <h2 align="left">👨 About Me</h2>
 
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I'm a **Senior Java Engineer** with 9+ years of exp. in building scalable **microservices & cloud-native applications.** \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌱 Currently learning **React, DevOps Cloud Architecture & Generative AI.** \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧡 Advocate for **Open Source contributions**. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 Regular writer on platforms like [medium.com](https://pwnmahto.medium.com/) & [dev.to](https://dev.to/pwnmahto/). \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📷 I'm a **Photographer** & enjoy exploring how **AI** can enhance creative processes like image recognition and editing. \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌎 Countries Lived/worked : **India & Sweden.** \
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🛫 Countries Traveled : **Finland, Denmark, Hungary, Germany, France & Nepal**.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🔭 I'm a **Senior Java Engineer** with 9+ years of experience architecting scalable **microservices** & **cloud-native applications**. \
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌐 I bring cross-functional expertise, integrating modern front-end (React, Next.js), **cloud architecture**, and **Generative AI**.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🧡 Passionate advocate for **Open Source**, with active contributions that reflect my commitment to community-driven development.
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📝 I regularly share technical insights and deep dives on platforms [medium.com](https://pwnmahto.medium.com/) and [dev.to](https://dev.to/pwnmahto/).
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;📷 Outside of code, I'm a Photographer exploring how AI augments creativity in fields like image recognition and intelligent editing.\
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;🌍 Global exposure: Lived and worked in **India** & **Sweden**, and travelled across Finland, Denmark, Hungary, Germany, France & Nepal.
 
 <!-- 
 <h2 align="left">🛠 Programming Languages & Tools</h2>

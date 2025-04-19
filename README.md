@@ -74,5 +74,6 @@
 ### 🤝 Connect with Me:
 - Dev: https://dev.to/pwnmahto
 - Medium: https://pwnmahto.medium.com
+- LinkTree: https://linktr.ee/pwnmahto
 - LinkedIn: https://www.linkedin.com/in/pwnmahto
 - Certifications: https://www.credly.com/users/pwnmahto
